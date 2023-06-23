@@ -23,7 +23,7 @@ Before running the application, make sure you have the following installed:
 
 5.The server will start running on http://localhost:3000.
 
-Usage
+##Usage
 GET /article
 
 Returns all articles stored in the database.
@@ -52,10 +52,10 @@ DELETE /articles/:articleTitle
 
 Deletes a specific article by its title.
 
-Contributing
+##Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-License
+##License
 This project is licensed under the MIT License.
 
 Make sure to replace `<repository_url>` with the actual URL of your GitHub repository. You can customize the content and sections based on your project's specific needs.
