@@ -10,14 +10,18 @@ This is a RESTful API for managing articles in a wiki.
 ## Installation
 
 1. Clone the repository:
+git clone <repository_url>
 
 2. Navigate to the project directory:
+cd wiki-api
 
-3. Install the dependencies:
+4. Install the dependencies:
+npm install
 
-4. Start the server:
+6. Start the server:
+node app.js
 
-5. The server will start running on `http://localhost:3000`.
+8. The server will start running on `http://localhost:3000`.
 
 ## Usage
 
